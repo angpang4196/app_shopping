@@ -35,7 +35,7 @@ Shopping Web Application (Backend)
 	<a href="angpang4196@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/a662f0aef7f749b4aba146e1fe64bc75">
+	<a href="https://scarce-avocado-b02.notion.site/a662f0aef7f749b4aba146e1fe64bc75">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
