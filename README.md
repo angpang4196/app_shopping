@@ -32,9 +32,6 @@ Shopping Web Application (Backend)
 	<p>🎨 SNS Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
 	<a href="angpang4196@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
